@@ -1,11 +1,11 @@
 {
-  "channel_name": "Tim B",
+  "channel_name": "TimB",
   "fanart": "",
   "thumbnail": "",
   "menu": [
     {
-      "title": "film",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
+      "title": "Film",
+      "link": "",
       "thumbnail": ""
     },
     {
