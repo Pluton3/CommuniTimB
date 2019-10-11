@@ -1,13 +1,12 @@
 {
-  "channel_name": "Tim B",  
+  "channel_name": "Tim B",
   "fanart": "https://wallpapercave.com/wp/zRjY8OP.jpg",
   "thumbnail": "https://imagizer.imageshack.com/img924/1834/ARRjmA.png",
   "menu": [
     {
-      "link":"",
-			"miniatura":"",
-			"plot":"Testdiprova",
-			"title":"Film"
+      "title": "Film",
+      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
+      "thumbnail": ""
     },
     {
       "title": "",
