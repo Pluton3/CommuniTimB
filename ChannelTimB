@@ -1,7 +1,7 @@
 {
   "channel_name": "Tim B",
-  "fanart": "",
-  "thumbnail": "",
+  "fanart": "https://wallpapercave.com/wp/zRjY8OP.jpg",
+  "thumbnail": "https://imageshack.us/i/poARRjmAp",
   "menu": [
     {
       "title": "Film",
@@ -9,7 +9,7 @@
       "thumbnail": ""
     },
     {
-      "title": "",
+      "title": "Serie",
       "link": "",
       "thumbnail": ""
     }
