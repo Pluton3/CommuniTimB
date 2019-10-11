@@ -4,10 +4,10 @@
   "thumbnail": "https://imagizer.imageshack.com/img924/1834/ARRjmA.png",
   "menu": [
     {
-      "title": "Film",
-      "plot":"testprovagenerale",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
-      "thumbnail": ""
+      "link":"",
+			"miniatura":"",
+			"plot":"Testdiprova",
+			"title":"Film"
     },
     {
       "title": "",
