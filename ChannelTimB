@@ -5,6 +5,7 @@
   "menu": [
     {
       "title": "Film",
+      "plot": "testo di prova",
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
       "thumbnail": ""
     },
