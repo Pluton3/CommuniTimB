@@ -1,11 +1,11 @@
 {
-  "channel_name": "Tim B", 
-  "plot":"testprovagenerale", 
+  "channel_name": "Tim B",  
   "fanart": "https://wallpapercave.com/wp/zRjY8OP.jpg",
   "thumbnail": "https://imagizer.imageshack.com/img924/1834/ARRjmA.png",
   "menu": [
     {
       "title": "Film",
+      "plot":"testprovagenerale",
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
       "thumbnail": ""
     },
