@@ -4,8 +4,7 @@
   "thumbnail": "https://imagizer.imageshack.com/img924/1834/ARRjmA.png",
   "menu": [
     {
-      "title": "Film",
-      "plot" : "https://it.m.wikipedia.org/wiki/Tim_Burton", 
+      "title": "Film", 
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
       "thumbnail": "https://imagizer.imageshack.com/img922/1382/dX8Wf1.png"
     },
