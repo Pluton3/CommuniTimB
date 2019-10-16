@@ -4,8 +4,9 @@
   "thumbnail": "https://imagizer.imageshack.com/img924/1834/ARRjmA.png",
   "menu": [
     {
-      "title": "Film", 
-      "plot": "----------Nazionali----------{color kod italic}", 
+      "first text": "Film", 
+      "second text": "----------Nazionali----------{color kod italic}", 
+      "box color": "#168585", 
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
       "thumbnail": "https://imagizer.imageshack.com/img922/1382/dX8Wf1.png"
     },
