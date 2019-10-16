@@ -4,8 +4,8 @@
   "thumbnail": "https://imagizer.imageshack.com/img924/1834/ARRjmA.png",
   "menu": [
     {
-      "first text": "Film", 
-      "second text": "prova{color kod italic}",  
+      "title": "Film{color kod italic}", 
+      "plot": "prova{color kod italic}",  
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
       "thumbnail": "https://imagizer.imageshack.com/img922/1382/dX8Wf1.png"
     },
