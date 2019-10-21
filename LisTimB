@@ -3,6 +3,17 @@
 		{
 			"links":[
 				{
+					"quality":"TorrentHD",
+					"url":"magnet:?xt=urn:btih:4357A3F678EB7FD04D47127D8B08A8C5ED4E1F77"
+				}
+			],
+			"title":"Ducktales",
+			"tmdb_id":"",
+			"year":"2017"
+		}, 
+                {
+			"links":[
+				{
 					"quality":"SD",
 					"url":"https://openload.co/f/YWYlAhhnbyU"
 				},
