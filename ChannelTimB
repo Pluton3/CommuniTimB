@@ -1,16 +1,11 @@
 {
-  "channel_name": "torrentVillage",
+  "channel_name": "testOne",
   "fanart": "",
   "thumbnail": "",
   "menu": [
     {
       "title": "Film",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/LisTimB",
-      "thumbnail": ""
-    },
-    {
-      "title": "",
-      "link": "",
+      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/testOne",
       "thumbnail": ""
     }
   ]
