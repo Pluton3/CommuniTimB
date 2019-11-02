@@ -10,12 +10,12 @@
      },
     {
       "title": "Serie Tv",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_SerieTv.json?token=ANOHRNKYQCDKPGKKY44FQW25XVXK2",
+      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_SerieTv.json",
       "thumbnail": ""
      },
     {
       "title": "Cartoni Animati",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_Cartoni.json?token=ANOHRNPYFM6WSWC65M3PHNK5XVSF4",
+      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_Cartoni.json",
       "thumbnail": ""
     }
   ]
