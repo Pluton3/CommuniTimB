@@ -6,16 +6,19 @@
     {
       "title": "Film",
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_0-9_A-z.json",
+      "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/movies-wallpapers.jpg",
       "thumbnail": ""
      },
     {
       "title": "Serie Tv",
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_SerieTv.json",
+      "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/tv-series-wallpapers.jpg",
       "thumbnail": ""
      },
     {
       "title": "Cartoni Animati",
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_Cartoni.json",
+      "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/6131354f-6754-48a1-931f-a3b08af6fd6e.png",
       "thumbnail": ""
     }
   ]
