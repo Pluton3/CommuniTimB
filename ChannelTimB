@@ -7,6 +7,11 @@
       "title": "Film",
       "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_0-9_A-z.json",
       "thumbnail": ""
+     },
+    {
+      "title": "Cartoni Animati",
+      "link": "",
+      "thumbnail": ""
     }
   ]
 }
