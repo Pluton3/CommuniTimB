@@ -11,13 +11,13 @@
      },
     {
       "title": "Serie Tv",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_SerieTv.json",
+      "link": "/TNT_SerieTv.json",
       "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/tv-series-wallpapers.jpg",
       "thumbnail": ""
      },
     {
       "title": "Cartoni Animati",
-      "link": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/TNT_Cartoni.json",
+      "link": "TNT_Cartoni.json",
       "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/Cartoon.png",
       "thumbnail": ""
     }
