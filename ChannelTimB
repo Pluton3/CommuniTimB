@@ -5,7 +5,7 @@
   "menu": [
     {
       "title": "Film",
-      "link": "CommuniTimB/TNT_0-9_A-z.json",
+      "link": "/TNT_0-9_A-z.json",
       "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/movies-wallpapers.jpg",
       "thumbnail": ""
      },
