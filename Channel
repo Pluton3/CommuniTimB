@@ -12,12 +12,12 @@
     {
       "title": "Serie Tv",
       "link": "/SerieTv.json",
-      "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/tv-series-wallpapers.jpg",
+      "fanart": "/Nuova%20cartella/tv-series-wallpapers.jpg",
       "thumbnail": ""
      },
     {
       "title": "Cartoni Animati",
-      "link": "/Cartoni_test.json",
+      "link": "/Cartoni.json",
       "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/Cartoon.png",
       "thumbnail": ""
     }
