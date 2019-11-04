@@ -2,9 +2,11 @@
 	"movies_list": [
 		{
 			"title": "20000 leghe sotto i mari",
+			"tmdb_id": "104682",
 			"links": [
 				{
-					"url": "magnet:?xt=urn:btih:C2EDDEC4D20DD30922A6143341D1CBEBFCB3BE1C"
+					"url": "magnet:?xt=urn:btih:C2EDDEC4D20DD30922A6143341D1CBEBFCB3BE1C",
+					"quality": "0,38GB"
 				}
 			]
 		},
