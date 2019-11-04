@@ -17,7 +17,7 @@
      },
     {
       "title": "Cartoni Animati",
-      "link": "/Cartoni.json",
+      "link": "/Cartoni_test.json",
       "fanart": "https://raw.githubusercontent.com/Pluton3/CommuniTimB/master/Nuova%20cartella/Cartoon.png",
       "thumbnail": ""
     }
