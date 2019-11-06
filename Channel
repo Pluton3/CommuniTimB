@@ -20,12 +20,6 @@
       "link": "/Cartoni.json",
       "fanart": "/Nuova%20cartella/Cartoon.png",
       "thumbnail": ""
-     },
-    {
-      "title": "Tv",
-      "link": "/TestTv.json",
-      "fanart": "/Nuova%20cartella/Cartoon.png",
-      "thumbnail": ""
     }
   ]
 }
