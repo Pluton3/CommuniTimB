@@ -8,21 +8,21 @@
       "plot": "questi sono film",
       "link": "/0-9_A-z.json",
       "fanart": "",
-      "thumbnail": "/Image/FilmBN.png"
+      "thumbnail": "/Image/Film.png"
      },
     {
       "title": "Serie Tv",
       "plot": "queste sono serie",
       "link": "/SerieTv.json",
       "fanart": "",
-      "thumbnail": "/Image/SerieBN.png"
+      "thumbnail": "/Image/Serie.png"
      },
     {
       "title": "Cartoni Animati",
       "plot": "questi sono cartoni",
       "link": "/Cartoni.json",
       "fanart": "",
-      "thumbnail": "/Image/CartoonBN.png"
+      "thumbnail": "/Image/master/Image/Cartoon%20(2).png"
     }
   ]
 }
