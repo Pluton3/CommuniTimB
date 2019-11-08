@@ -5,21 +5,24 @@
   "menu": [
     {
       "title": "Film",
+      "plot": "questi sono film",
       "link": "/0-9_A-z.json",
-      "fanart": "/Nuova%20cartella/movies-wallpapers.jpg",
-      "thumbnail": ""
+      "fanart": "",
+      "thumbnail": "/Image/FilmBN.png"
      },
     {
       "title": "Serie Tv",
+      "plot": "queste sono serie",
       "link": "/SerieTv.json",
-      "fanart": "/Nuova%20cartella/tv-series-wallpapers.jpg",
-      "thumbnail": ""
+      "fanart": "",
+      "thumbnail": "/Image/SerieBN.png"
      },
     {
       "title": "Cartoni Animati",
+      "plot": "questi sono cartoni",
       "link": "/Cartoni.json",
-      "fanart": "/Nuova%20cartella/Cartoon.png",
-      "thumbnail": ""
+      "fanart": "",
+      "thumbnail": "/Image/CartoonBN.png"
     }
   ]
 }
